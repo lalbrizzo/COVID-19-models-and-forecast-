@@ -7,4 +7,4 @@ Data are taken from [European Centre for Disease Prevention and Control](https:/
 ) and as of 22/03/2020 have to be manually downloaded.
 
 The main file is a Jupyter notebook and requires some standard Python libraries, do not hesitate to contact me 
-if you encounter any probleme.   
+if you encounter any problem.   
