@@ -4,7 +4,7 @@ This is Git in which I collect models and forecast about the ongoing global pand
 As the pandemic is ongoing, this is very much a work in progress and any suggestion/comment is more than welcomed.
 
 Data are taken from [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
-) and as of 22/03/2020 have to be manually downloaded.
+) and [Our World in Data - COVID19 testing](https://ourworldindata.org/covid-testing) and as of 30/04/2020 have to be manually downloaded.
 
 The main file is a Jupyter notebook and requires some standard Python libraries, do not hesitate to contact me 
 if you encounter any problem.   
