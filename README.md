@@ -7,4 +7,6 @@ Data are taken from [European Centre for Disease Prevention and Control](https:/
 ) and [Our World in Data - COVID19 testing](https://ourworldindata.org/covid-testing) and as of 30/04/2020 have to be manually downloaded.
 
 The main file is a Jupyter notebook and requires some standard Python libraries, do not hesitate to contact me 
-if you encounter any problem.   
+if you encounter any problem.
+
+The result of this study were presented at the Paris Machine Learning Applications Group meeting of May 2020 and can be found on the [PMLA Youtube channel](https://www.youtube.com/watch?v=9S8BpvpS_xE&t=1737s).
